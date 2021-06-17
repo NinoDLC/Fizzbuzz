@@ -1,0 +1,53 @@
+{
+  "comment": "Sample data for fizzbuzz list",
+  "data": [
+    {
+      "text": "1"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "fizz"
+    },
+    {
+      "text": "4"
+    },
+    {
+      "text": "buzz"
+    },
+    {
+      "text": "fizz"
+    },
+    {
+      "text": "7"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "fizz"
+    },
+    {
+      "text": "buzz"
+    },
+    {
+      "text": "11"
+    },
+    {
+      "text": "fizz"
+    },
+    {
+      "text": "13"
+    },
+    {
+      "text": "14"
+    },
+    {
+      "text": "fizzbuzz"
+    },
+    {
+      "text": "16"
+    }
+  ]
+}

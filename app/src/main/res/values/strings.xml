@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fizzbuzz</string>
+    <string name="title_parameters">Parameters</string>
+    <string name="title_fizzbuzzlist">Game</string>
+    <string name="title_stats">Stats</string>
+    <string name="int1">int1</string>
+    <string name="int2">int2</string>
+    <string name="limit">limit</string>
+    <string name="str1">str1</string>
+    <string name="str2">str2</string>
+    <string name="most_picked_combination">Most picked combination :</string>
+    <string name="confirm">Confirm</string>
+    <string name="none">none</string>
+    <string name="stats_template">The combination \n\nint1=\'%d\', \nint2=\'%d\', \nlimit=\'%d\', \nstr1=\'%s\', \nstr2=\'%s\' \n\nhas been picked %s</string>
+    <plurals name="times">
+        <item quantity="one">%d time</item>
+        <item quantity="other">%d times</item>
+    </plurals>
+</resources>
